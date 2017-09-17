@@ -1,0 +1,58 @@
+markers = [
+ {
+   "Applications": "City Touch",
+   "Site_Name": "One Trafford",
+   "ROC_SPOC": "Shruthi Jagadish",
+   "Latitude": "53.4215 N",
+   "Longitude": " 2.3517 W"
+ },
+ {
+   "Applications": "City Touch",
+   "Site_Name": "Puerto De El Hierro Site(Iberia)",
+   "ROC_SPOC": "Kalidas",
+   "Latitude": "27.75 N",
+   "Longitude": "18.00 W"
+ },
+ {
+   "Applications": "City Touch",
+   "Site_Name": "Puerto De La Gomera(Iberia)",
+   "ROC_SPOC": "Kalidas",
+   "Latitude": "28.0938 N",
+   "Longitude": " 17.1099 W"
+ },
+ {
+   "Applications": "City Touch",
+   "Site_Name": "Puerto De La Palma(Iberia)",
+   "ROC_SPOC": "Kalidas",
+   "Latitude": "28.6840 N",
+   "Longitude": " 17.7646 W"
+ },
+ {
+   "Applications": "City Touch",
+   "Site_Name": "Puerto De Los Cristianos(Iberia)",
+   "ROC_SPOC": "Deepika",
+   "Latitude": "28.2450 N",
+   "Longitude": " 16.7 W"
+ },
+ {
+   "Applications": "City Touch",
+   "Site_Name": "Puerto De Tenerife(Iberia)",
+   "ROC_SPOC": "Deepika",
+   "Latitude": "28.4114 N",
+   "Longitude": " 16.3450 W"
+ },
+ {
+   "Applications": "Amp Light",
+   "Site_Name": "NRDA(RAIPUR)",
+   "ROC_SPOC": "Shravana Kumar",
+   "Latitude": "21.2514 N",
+   "Longitude": " 81.6296 E"
+ },
+ {
+   "Applications": "Active site",
+   "Site_Name": "Bay Light",
+   "ROC_SPOC": "Sambit Ranjan ",
+   "Latitude": "37.7983 N",
+   "Longitude": " -122.3778 W"
+ }
+];
